@@ -2,4 +2,4 @@ sampleconfig:
     profile: It is development profiles.
     app:
         first: Hello
-        second: Justin
+        second: Justin Park
